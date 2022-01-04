@@ -22,7 +22,7 @@ Create an Employee Management project.
 - Designer cannot replicate the mock below
 
 # Instructions
-**Developer**
+**Backend/Frontend/QA**
 1. Fork this repository
 2. Create a pull request to this repo when you are done
 3. Commits to be written following the Conventional Commits specification
